@@ -90,7 +90,7 @@
    docker-compose up --build
    ```
 4. **Access the app:**
-   - Frontend: [http://localhost](http://localhost)
+   - Frontend: [http://localhost](http://localhost:3000)
    - Backend API: [http://localhost:5000](http://localhost:5000)
 
 ### Stopping the App
