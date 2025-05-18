@@ -4,19 +4,9 @@
 
 ---
 
-## 🚀 Executive Summary
+## 🚀 Summary
 
 **AutoAssign** is a next-generation, scalable web platform that empowers educators to uphold academic integrity with confidence. Leveraging state-of-the-art NLP, a modern microservices-inspired stack, and a beautiful user experience, this project is built for real-world impact and seamless deployment at scale.
-
----
-
-## 💡 Why This Project Stands Out
-
-- **Real-World Impact:** Designed for universities and schools to automate and streamline plagiarism detection, saving hours of manual review.
-- **Modern, Scalable Stack:** Dockerized Flask (Python) backend, React frontend, and MongoDB Atlas for cloud-grade reliability.
-- **Production-Ready:** Robust error handling, environment-based configuration, and secure authentication.
-- **Teamwork & Extensibility:** Modular codebase, clear API boundaries, and easy integration of new features or algorithms.
-- **Beautiful UI/UX:** Clean, responsive dashboard with intuitive controls and exportable reports.
 
 ---
 
@@ -58,7 +48,7 @@
 
 ---
 
-## 🌍 Scalability & Production-Readiness
+## 🌍 Scalability 
 
 - **Cloud-Native:** Connects to MongoDB Atlas for high availability and global access.
 - **Stateless API:** Backend can be scaled horizontally with zero downtime.
