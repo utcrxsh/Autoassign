@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Summary
+##  Summary
 
 **AutoAssign** is a next-generation, scalable web platform that empowers educators to uphold academic integrity with confidence. Leveraging state-of-the-art NLP, a modern microservices-inspired stack, and a beautiful user experience, this project is built for real-world impact and seamless deployment at scale.
 
@@ -35,7 +35,7 @@
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 - **Backend:** Flask (Python), Gunicorn, MongoDB Atlas, Poppler, Tesseract
 - **Frontend:** React, served with `serve`
@@ -55,6 +55,23 @@
 - **Persistent Storage:** Data is safe and accessible from anywhere.
 - **Secure & Configurable:** All secrets and URIs managed via environment variables.
 - **CI/CD Friendly:** Dockerized for seamless integration into any deployment pipeline.
+
+---
+
+
+---
+
+## 🖼️ Screenshots
+
+
+### Dashboard
+![Dashboard](./demo/dashboard.png)
+
+### Plagiarism Detection
+![Detection](./demo/detection.png)
+
+### Export to Excel
+![Export](./demo/excel.png)
 
 ---
 
@@ -90,34 +107,3 @@
   docker-compose down
   ```
 
----
-
-## 🖼️ Screenshots
-
-
-### Dashboard
-![Dashboard](./demo/dashboard.png)
-
-### Plagiarism Detection
-![Detection](./demo/detection.png)
-
-### Export to Excel
-![Export](./demo/excel.png)
-
----
-
-## 🤝 Contributing
-
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
----
-
-## 📄 License
-
-[MIT](LICENSE)
-
----
-
-## 💬 Acknowledgements
-- Built with Flask, React, MongoDB Atlas, Docker, and modern NLP libraries
-- Inspired by the need for fair and scalable academic integrity solutions
