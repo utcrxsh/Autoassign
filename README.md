@@ -13,7 +13,7 @@
 ## ✨ Features
 
 - **Advanced Plagiarism Detection**
-  - Combines MinHash+LSH and TF-IDF/Cosine Similarity for high-accuracy detection
+  - Combines MinHash+LSH for high-accuracy detection
   - Smart preprocessing: lowercasing, punctuation & stopword removal, shingling
   - Flags all matching submissions, not just the latest
 - **User-Friendly Dashboard**
